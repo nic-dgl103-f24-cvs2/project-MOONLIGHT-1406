@@ -1,0 +1,158 @@
+# Big Brisket Barbecue - Project Website Plan
+
+## 1. Project Summary
+
+### Site to Redesign
+- **Website**: [Big Brisket Barbecue](https://bigbrisketbarbecue.com/)
+
+### Why the Client Needs a New Website
+The current website lacks a modern design, responsiveness, and accessibility. Its slow loading speed and clunky navigation make it challenging for users to engage with the brand effectively. Improvements are required in content organization, visual appeal, and user-friendliness.
+
+### Most Important Purpose
+The primary purpose of the website is to attract barbecue enthusiasts and convert them into loyal customers by showcasing the quality of Big Brisket's food and catering services.
+
+### Target Audience
+- **Primary**: Local barbecue lovers seeking high-quality smoked meats and authentic barbecue experiences.
+- **Secondary**: Event planners and businesses looking for catering services.
+
+### Overall Message
+Big Brisket Barbecue delivers premium, mouth-watering barbecue with exceptional service. The website should convey the brand’s authenticity, quality, and dedication to barbecue excellence.
+
+### Desired Actions
+1. Explore the menu and place an order.
+2. Contact for catering services or event inquiries.
+3. Visit the restaurant location.
+
+### Issues with the Current Site
+1. **Accessibility**: Lacks features like proper color contrast and keyboard navigation.
+2. **Speed**: Pages load slowly, reducing user engagement.
+3. **Design**: Outdated layout and visuals fail to reflect the brand's personality.
+4. **Responsiveness**: Poorly optimized for mobile devices.
+
+---
+
+## 2. Look and Feel
+
+### Mood
+The redesigned website will convey a **warm, inviting, and authentic barbecue experience**. It should feel:
+- Approachable and friendly
+- Rustic yet modern
+- Fun and engaging
+
+### Inspiration
+1. **[Franklin Barbecue](https://franklinbbq.com/)**
+   - Clean, rustic design with a focus on mouth-watering imagery.
+   - Warm tones that reflect the barbecue culture.
+2. **[Salt Lick BBQ](https://saltlickbbq.com/)**
+   - Excellent use of photography to showcase food and ambiance.
+   - Easy-to-navigate and visually appealing layout.
+
+### Colours
+1. **Primary**: Rustic Red (`#B22222`)
+2. **Neutral**: Warm Beige (`#F5F5DC`)
+3. **Highlight**: Charcoal Gray (`#333333`)
+
+### Images
+- **Logo**: The original site’s logo can be reused.
+- **Photos**: High-quality images of smoked meats, sides, and catering events from the original site.
+- **Icons/Illustrations**: Incorporate barbecue-themed icons to enhance visual appeal.
+
+### Fonts
+1. **Headlines**: "Oswald" (bold and impactful)
+2. **Body Copy**: "Roboto" (clean and readable)
+
+---
+
+## 3. Website Content
+
+### Homepage
+#### Header
+- Logo
+- Main Navigation:
+  - Home
+  - Menu
+  - Catering
+  - Contact
+
+#### Hero Section
+- **Heading**: “Savor the Best Barbecue in Town!”
+- **Image**: High-quality image of brisket and sides.
+- **CTA Button**: "View Menu"
+
+#### About Section
+- **Heading**: “Who We Are”
+- **Paragraph**: Highlight the brand's history, mission, and dedication to quality barbecue.
+
+#### Highlights Section
+- **Heading**: “Why Choose Big Brisket Barbecue?”
+- **Points**:
+  - Locally sourced, high-quality ingredients.
+  - Smoked to perfection with time-honored techniques.
+  - Catering services for all occasions.
+- **CTA Button**: "Learn More About Us"
+
+#### Featured Menu Section
+- **Heading**: “Our Signature Dishes”
+- **Content**: Images and descriptions of 3-4 popular dishes.
+- **CTA Button**: "Explore Full Menu"
+
+#### Footer
+- Social media links
+- Contact information
+- Navigation links
+- Copyright notice
+
+---
+
+### Menu Page
+#### Header
+- Same as the homepage.
+
+#### Menu Hero Section
+- **Heading**: “Our Menu”
+- **Image**: Delicious barbecue spread.
+
+#### Menu Items Section
+- Organized by categories:
+  - Starters
+  - Mains (Brisket, Pulled Pork, etc.)
+  - Sides
+  - Desserts
+- Each item includes:
+  - Name
+  - Short description
+  - Price
+
+#### Call-to-Action
+- **Heading**: “Hungry Yet?”
+- **CTA Button**: "Order Now"
+
+#### Footer
+- Same as the homepage.
+
+---
+
+### Catering Page
+#### Header
+- Same as the homepage.
+
+#### Hero Section
+- **Heading**: “Catering Services”
+- **Image**: Smoked meat platter at a catered event.
+
+#### About Catering Section
+- **Heading**: “Perfect for Any Occasion”
+- **Paragraph**: Explanation of catering services, ideal events, and benefits.
+
+#### Catering Options Section
+- Packages with descriptions and pricing.
+
+#### Testimonials Section
+- Customer quotes about their catering experiences.
+
+#### Call-to-Action
+- **Heading**: “Ready to Impress Your Guests?”
+- **CTA Button**: "Get a Quote"
+
+#### Footer
+- Same as the homepage.
