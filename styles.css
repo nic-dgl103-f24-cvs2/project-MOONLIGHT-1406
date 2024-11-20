@@ -1,0 +1,41 @@
+/*Header*/
+header{
+    background-color: black;
+}
+header img{
+padding:10px;
+}
+.hidden{
+  display: none;
+}
+nav{
+  display: flex;
+}
+.login{
+  display: none;
+}
+.line {
+  width: 24px;
+  height: 24px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  margin-left: 50%;
+  margin-top: 22px;
+}
+.line span {
+  display: block;
+  width: 100%;
+  height:3px;
+  background-color:white;
+  border-radius: 2px;
+}
+/* hero section*/
+ .hero h1{
+    text-align: center;
+  }
+  .hero figure{
+    padding: 30px;
+    align-items:center;
+
+  }
