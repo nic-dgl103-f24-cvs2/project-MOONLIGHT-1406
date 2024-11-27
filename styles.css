@@ -1,41 +1,99 @@
-/*Header*/
-header{
-    background-color: black;
+/* General Reset */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
-header img{
-padding:10px;
+
+body {
+  font-family: 'Roboto', sans-serif;
+  color: #333;
+  background-color: #F5F5DC;
+  line-height: 1.6;
+}
+
+/* Header */
+header {
+  background-color: black;
+  color: #fff;
+  position:relative ;
 }
 .hidden{
   display: none;
 }
-nav{
-  display: flex;
-}
-.login{
-  display: none;
-}
-.line {
-  width: 24px;
-  height: 24px;
+nav ul{
   display: flex;
   flex-direction: column;
-  justify-content: space-around;
-  margin-left: 50%;
-  margin-top: 22px;
+  list-style-type: none;
 }
-.line span {
-  display: block;
-  width: 100%;
-  height:3px;
-  background-color:white;
-  border-radius: 2px;
+nav ul a{
+  color:rgba(211, 186, 27, 0.904);;
+  text-decoration: none;
 }
-/* hero section*/
- .hero h1{
-    text-align: center;
-  }
-  .hero figure{
-    padding: 30px;
-    align-items:center;
 
-  }
+header img{
+  padding: 10px 0 10px 10px;
+}
+.show-items {
+  display: flex;
+}
+
+.toggle {
+  position: absolute;
+  top: 20px;
+  right:20px;
+}
+
+
+/* Hero Section */
+.hero {
+  text-align: center;
+  padding: 2rem;
+  background-color: rgba(0, 0, 0, 0.7);
+  background: url('images/smooky brisket.jpg') center/cover;
+  background-blend-mode: multiply;
+  width: 100%;
+  color: #f1efef;
+}
+
+.hero h1 {
+  font-size: 2.5rem;
+  margin-bottom: 1rem;
+  text-shadow: 1px 1px 4px #333;
+}
+
+.hero .cta {
+  display: inline-block;
+  padding: 0.5rem 1.5rem;
+  color: #fff;
+  background: #333;
+  text-decoration: none;
+  border-radius: 5px;
+  margin-top: 1rem;
+}
+.hero p{
+  text-shadow: 1px 1px 4px #333;
+}
+
+/* About Section */
+.about {
+  padding: 2rem;
+  text-align: center;
+}
+
+.about h2 {
+  font-size: 2rem;
+  margin-bottom: 1rem;
+}
+.featured-menu{
+  text-align: center;
+}
+
+/* Footer */
+footer {
+  background: #333;
+  color: #fff;
+  text-align: center;
+  padding: 1rem;
+}
+
