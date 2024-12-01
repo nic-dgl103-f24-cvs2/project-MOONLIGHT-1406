@@ -48,7 +48,7 @@ The redesigned website will convey a **warm, inviting, and authentic barbecue ex
    - Easy-to-navigate and visually appealing layout.
 
 ### Colours
-1. **Primary**: Rustic Red (`#B22222`)
+1. **Primary**: black (`#B22222`)
 2. **Neutral**: Warm Beige (`#F5F5DC`)
 3. **Highlight**: Charcoal Gray (`#333333`)
 
@@ -62,10 +62,12 @@ The redesigned website will convey a **warm, inviting, and authentic barbecue ex
 2. **Body Copy**: "Roboto" (clean and readable)
 
 ---
+#### For mobile 357px and 733px
+#### Forb Desktop 1200px 
 
 ## 3. Website Content
 
-### Homepage
+### Index
 #### Header
 - Logo
 - Main Navigation:
@@ -106,22 +108,16 @@ The redesigned website will convey a **warm, inviting, and authentic barbecue ex
 
 ### Menu Page
 #### Header
-- Same as the homepage.
+- Same as the Index
 
 #### Menu Hero Section
 - **Heading**: “Our Menu”
 - **Image**: Delicious barbecue spread.
 
 #### Menu Items Section
+
 - Organized by categories:
-  - Starters
-  - Mains (Brisket, Pulled Pork, etc.)
-  - Sides
-  - Desserts
-- Each item includes:
-  - Name
-  - Short description
-  - Price
+- Table
 
 #### Call-to-Action
 - **Heading**: “Hungry Yet?”
@@ -134,7 +130,7 @@ The redesigned website will convey a **warm, inviting, and authentic barbecue ex
 
 ### Catering Page
 #### Header
-- Same as the homepage.
+- Same as the Index.
 
 #### Hero Section
 - **Heading**: “Catering Services”
