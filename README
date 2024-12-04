@@ -74,7 +74,6 @@ The redesigned website will convey a **warm, inviting, and authentic barbecue ex
   - Home
   - Menu
   - Catering
-  - Contact
 
 #### Hero Section
 - **Heading**: “Savor the Best Barbecue in Town!”
@@ -143,12 +142,9 @@ The redesigned website will convey a **warm, inviting, and authentic barbecue ex
 #### Catering Options Section
 - Packages with descriptions and pricing.
 
-#### Testimonials Section
-- Customer quotes about their catering experiences.
 
 #### Call-to-Action
-- **Heading**: “Ready to Impress Your Guests?”
-- **CTA Button**: "Get a Quote"
+-**Contact us**:"form"
 
 #### Footer
 - Same as the homepage.
